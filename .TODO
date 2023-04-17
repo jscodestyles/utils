@@ -1,0 +1,9 @@
+
+
+debounce: This utility helps to prevent a function from being called multiple times in quick succession. It delays the function call until a certain amount of time has passed without any additional calls.
+throttle: This utility limits the rate at which a function can be called. It will only allow the function to be called once every specified time interval.
+shuffle: This utility shuffles the elements of an array randomly.
+deepClone: This utility creates a deep copy of an object, including all nested objects and arrays.
+flatten: This utility flattens a nested array into a single array.
+groupBy: This utility groups an array of objects by a specified key.
+mapKeys: This utility creates a new object with the keys of the original object transformed by a specified function.
